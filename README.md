@@ -3,7 +3,7 @@
 ## Python_Chessboard 
 
 # Project Overview:
-During a recent Data Science course at Noble Desktop, the instructor walked us through an interesting exercise of creating a chessboard starting with an 8 x 8 dataframne.  
+During a recent Data Science course (January 2025) at Noble Desktop, the instructor walked us through an interesting exercise of creating a chessboard starting with an 8 x 8 dataframne.  
 
 ---
 The exercise continues to showcase my expertise in using Python. 
